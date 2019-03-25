@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{43151F4B-D2CA-495E-9020-D918FCC869A4}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Desktop\sumayya\images\bg-img2.jpg = ..\..\..\Desktop\sumayya\images\bg-img2.jpg
+		..\..\..\..\Public\Pictures\Sample Pictures\Chrysanthemum.jpg = ..\..\..\..\Public\Pictures\Sample Pictures\Chrysanthemum.jpg
+		..\..\..\Desktop\sumayya\attendanceMVC\attendanceMVC\attendanceMVC\Content\font-awesome.css = ..\..\..\Desktop\sumayya\attendanceMVC\attendanceMVC\attendanceMVC\Content\font-awesome.css
+		home.html = home.html
+		..\..\..\Desktop\new visual\WebApplication1\packages\jQuery.1.10.2\Content\Scripts\jquery-1.10.2.min.js = ..\..\..\Desktop\new visual\WebApplication1\packages\jQuery.1.10.2\Content\Scripts\jquery-1.10.2.min.js
+		..\..\..\Desktop\sumayya\images\logo.png = ..\..\..\Desktop\sumayya\images\logo.png
+		..\..\..\Desktop\sumayya\images\slider-img1.jpg = ..\..\..\Desktop\sumayya\images\slider-img1.jpg
+		style.css = style.css
+		..\..\..\..\Public\Pictures\Sample Pictures\Tulips.jpg = ..\..\..\..\Public\Pictures\Sample Pictures\Tulips.jpg
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{3167CF47-D821-4585-9CED-EED25731AEBF}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Desktop\sumayya\shifani\image\images (5).jpg = ..\..\..\Desktop\sumayya\shifani\image\images (5).jpg
+		..\..\..\Desktop\sumayya\shifani\image\images (8).jpg = ..\..\..\Desktop\sumayya\shifani\image\images (8).jpg
+		..\..\..\Desktop\sumayya\shifani\image\images.jpg = ..\..\..\Desktop\sumayya\shifani\image\images.jpg
+		..\..\..\Desktop\sumayya\images\page4-img1.jpg = ..\..\..\Desktop\sumayya\images\page4-img1.jpg
+		..\..\..\Desktop\sumayya\images\page4-img2.jpg = ..\..\..\Desktop\sumayya\images\page4-img2.jpg
+		..\..\..\Desktop\sumayya\images\page4-img3.jpg = ..\..\..\Desktop\sumayya\images\page4-img3.jpg
+		..\..\..\Desktop\sumayya\images\page4-img4.jpg = ..\..\..\Desktop\sumayya\images\page4-img4.jpg
+		..\..\..\Desktop\sumayya\images\page4-img5.jpg = ..\..\..\Desktop\sumayya\images\page4-img5.jpg
+		..\..\..\Desktop\sumayya\images\page5-img1.jpg = ..\..\..\Desktop\sumayya\images\page5-img1.jpg
+		..\..\..\Desktop\sumayya\images\page5-img2.jpg = ..\..\..\Desktop\sumayya\images\page5-img2.jpg
+		..\..\..\Desktop\sumayya\images\page5-img3.jpg = ..\..\..\Desktop\sumayya\images\page5-img3.jpg
+		..\..\..\Desktop\sumayya\images\page5-img4.jpg = ..\..\..\Desktop\sumayya\images\page5-img4.jpg
+		..\..\..\Desktop\sumayya\images\page5-img5.jpg = ..\..\..\Desktop\sumayya\images\page5-img5.jpg
+		..\..\..\Desktop\sumayya\shifani\images\pags.png = ..\..\..\Desktop\sumayya\shifani\images\pags.png
+		..\..\..\Desktop\sumayya\shifani\image\super-variety-bucket.jpg = ..\..\..\Desktop\sumayya\shifani\image\super-variety-bucket.jpg
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img-cart", "img-cart", "{27029EBB-21E2-4529-A65B-E25A67F780EE}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Desktop\sumayya\shifani\images\marker-1.png = ..\..\..\Desktop\sumayya\shifani\images\marker-1.png
+		..\..\..\Desktop\sumayya\images\page5-img5.jpg = ..\..\..\Desktop\sumayya\images\page5-img5.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3167CF47-D821-4585-9CED-EED25731AEBF} = {43151F4B-D2CA-495E-9020-D918FCC869A4}
+		{27029EBB-21E2-4529-A65B-E25A67F780EE} = {43151F4B-D2CA-495E-9020-D918FCC869A4}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15F2F7FD-CFE6-4A12-B4E3-7EAFF19BE154}
+	EndGlobalSection
+EndGlobal
